@@ -5,5 +5,4 @@
 layout: default
 ---
 
-## Omar Alam
 ## [My first post](/website/_posts/2021-12-20-my-first-post.markdown) 
