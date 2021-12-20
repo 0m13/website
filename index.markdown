@@ -4,4 +4,6 @@
 
 layout: default
 ---
-## [Tux, the Linux mascot](/website/_posts/2021-12-20-my-first-post.markdown) 
+
+## Omar Alam
+## [My first post](/website/_posts/2021-12-20-my-first-post.markdown) 
