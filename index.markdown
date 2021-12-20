@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Omar Alam
 ---
 
 ## [My first post](/website/_posts/2021-12-20-my-first-post.markdown) 
